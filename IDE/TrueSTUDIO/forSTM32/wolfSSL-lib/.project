@@ -35,51 +35,6 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>src/crl.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/crl.c</locationURI>
-		</link>
-		<link>
-			<name>src/internal.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/internal.c</locationURI>
-		</link>
-		<link>
-			<name>src/keys.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/keys.c</locationURI>
-		</link>
-		<link>
-			<name>src/ocsp.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/ocsp.c</locationURI>
-		</link>
-		<link>
-			<name>src/sniffer.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/sniffer.c</locationURI>
-		</link>
-		<link>
-			<name>src/ssl.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/ssl.c</locationURI>
-		</link>
-		<link>
-			<name>src/tls.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/tls.c</locationURI>
-		</link>
-		<link>
-			<name>src/tls13.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/tls13.c</locationURI>
-		</link>
-		<link>
-			<name>src/wolfio.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/src/wolfio.c</locationURI>
-		</link>
-		<link>
 			<name>wolfcrypt-src/.deps</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
@@ -92,317 +47,312 @@
 		<link>
 			<name>wolfcrypt-src/aes.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/aes.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/aes.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/arc4.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/arc4.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/arc4.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/asm.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/asm.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/asm.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/asn.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/asn.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/asn.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/async.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/async.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/async.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/blake2b.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/blake2b.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/blake2b.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/camellia.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/camellia.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/camellia.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/chacha.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/chacha.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/chacha.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/chacha20_poly1305.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/chacha20_poly1305.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/chacha20_poly1305.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/cmac.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/cmac.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/cmac.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/coding.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/coding.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/coding.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/compress.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/compress.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/compress.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/cpuid.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/cpuid.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/cpuid.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/curve25519.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/curve25519.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/curve25519.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/des3.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/des3.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/des3.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/dh.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/dh.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/dh.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/dsa.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/dsa.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/dsa.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ecc.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ecc.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ecc.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ecc_fp.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ecc_fp.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ecc_fp.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ed25519.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ed25519.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ed25519.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/error.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/error.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/error.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/fe_low_mem.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/fe_low_mem.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/fe_low_mem.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/fe_operations.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/fe_operations.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/fe_operations.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/fipsv2.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/fipsv2.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/fipsv2.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ge_low_mem.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ge_low_mem.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ge_low_mem.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ge_operations.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ge_operations.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ge_operations.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/hash.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/hash.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/hash.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/hc128.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/hc128.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/hc128.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/hmac.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/hmac.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/hmac.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/idea.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/idea.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/idea.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/integer.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/integer.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/integer.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/logging.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/logging.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/logging.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/md2.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/md2.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/md2.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/md4.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/md4.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/md4.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/md5.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/md5.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/md5.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/memory.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/memory.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/memory.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/pkcs12.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/pkcs12.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/pkcs12.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/pkcs7.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/pkcs7.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/pkcs7.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/poly1305.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/poly1305.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/poly1305.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/pwdbased.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/pwdbased.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/pwdbased.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/rabbit.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/rabbit.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/rabbit.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/random.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/random.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/random.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/ripemd.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/ripemd.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/ripemd.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/rsa.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/rsa.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/rsa.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/selftest.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/selftest.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/selftest.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sha.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sha.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sha.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sha256.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sha256.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sha256.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sha3.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sha3.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sha3.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sha512.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sha512.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sha512.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/signature.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/signature.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/signature.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_arm32.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_arm32.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_arm32.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_arm64.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_arm64.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_arm64.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_c32.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_c32.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_c32.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_c64.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_c64.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_c64.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_int.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_int.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_int.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/sp_x86_64.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_x86_64.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/sp_x86_64.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/srp.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/srp.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/srp.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/tfm.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/tfm.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/tfm.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/wc_encrypt.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/wc_encrypt.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/wc_encrypt.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/wc_port.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/wc_port.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/wc_port.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/wolfevent.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/wolfevent.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/wolfevent.c</locationURI>
 		</link>
 		<link>
 			<name>wolfcrypt-src/wolfmath.c</name>
 			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/wolfmath.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/wolfssl/wolfcrypt/src/wolfmath.c</locationURI>
 		</link>
 		<link>
 			<name>src/.deps/.dirstamp</name>
@@ -938,221 +888,6 @@
 			<name>wolfcrypt-src/.libs/src_libwolfssl_la-wolfmath.o</name>
 			<type>1</type>
 			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/.libs/src_libwolfssl_la-wolfmath.o</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/atmel</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/cavium</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/nrf51.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/nrf51.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/nxp</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/pic32</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/st</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/ti</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/xilinx</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm/.deps</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm/armv8-aes.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/arm/armv8-aes.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm/armv8-sha256.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/arm/armv8-sha256.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/atmel/README.md</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/atmel/README.md</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/atmel/atmel.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/atmel/atmel.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/README.md</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/README.md</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/caam_aes.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/caam_aes.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/caam_doc.pdf</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/caam_doc.pdf</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/caam_driver.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/caam_driver.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/caam_init.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/caam_init.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/caam/caam_sha.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/caam/caam_sha.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/cavium/.deps</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/cavium/README.md</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/cavium/README.md</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/cavium/cavium_nitrox.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/cavium/cavium_nitrox.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/.deps</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/README.md</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/intel/README.md</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/quickassist.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/intel/quickassist.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/quickassist_mem.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/intel/quickassist_mem.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/nxp/ksdk_port.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/nxp/ksdk_port.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/pic32/pic32mz-crypt.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/pic32/pic32mz-crypt.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/st/stm32.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/st/stm32.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/ti/ti-aes.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/ti/ti-aes.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/ti/ti-ccm.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/ti/ti-ccm.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/ti/ti-des3.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/ti/ti-des3.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/ti/ti-hash.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/ti/ti-hash.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/xilinx/xil-aesgcm.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/xilinx/xil-aesgcm.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/xilinx/xil-sha3.c</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/xilinx/xil-sha3.c</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm/.deps/src_libwolfssl_la-armv8-aes.Plo</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/arm/.deps/src_libwolfssl_la-armv8-aes.Plo</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/arm/.deps/src_libwolfssl_la-armv8-sha256.Plo</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/arm/.deps/src_libwolfssl_la-armv8-sha256.Plo</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/cavium/.deps/src_libwolfssl_la-cavium_nitrox.Plo</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/cavium/.deps/src_libwolfssl_la-cavium_nitrox.Plo</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/.deps/src_libwolfssl_la-quickassist.Plo</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/intel/.deps/src_libwolfssl_la-quickassist.Plo</locationURI>
-		</link>
-		<link>
-			<name>wolfcrypt-src/port/intel/.deps/src_libwolfssl_la-quickassist_mem.Plo</name>
-			<type>1</type>
-			<locationURI>PARENT-6-PROJECT_LOC/wolfssl/wolfcrypt/src/port/intel/.deps/src_libwolfssl_la-quickassist_mem.Plo</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

@@ -23,4 +23,46 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>examples/tpm_io.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/examples/tpm_io.c</locationURI>
+		</link>
+		<link>
+			<name>examples/tpm_io.h</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/examples/tpm_io.h</locationURI>
+		</link>
+		<link>
+			<name>src/tpm2.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/src/tpm2.c</locationURI>
+		</link>
+		<link>
+			<name>src/tpm2_packet.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/src/tpm2_packet.c</locationURI>
+		</link>
+		<link>
+			<name>src/tpm2_tis.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/src/tpm2_tis.c</locationURI>
+		</link>
+		<link>
+			<name>src/tpm2_wrap.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/src/tpm2_wrap.c</locationURI>
+		</link>
+		<link>
+			<name>examples/wrap/wrap_test.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/examples/wrap/wrap_test.c</locationURI>
+		</link>
+		<link>
+			<name>examples/wrap/wrap_test.h</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/examples/wrap/wrap_test.h</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

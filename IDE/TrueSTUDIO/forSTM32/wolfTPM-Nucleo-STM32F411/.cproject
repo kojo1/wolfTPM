@@ -50,8 +50,8 @@
 									<listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../Drivers/BSP/STM32F4xx-Nucleo"/>
 									<listOptionValue builtIn="false" value="../../../../../"/>
-									<listOptionValue builtIn="false" value="../../../../../../../wolfssl"/>
 									<listOptionValue builtIn="false" value="../../../../../IDE/TrueSTUDIO/forSTM32/wolfTPM-test"/>
+									<listOptionValue builtIn="false" value="../../../../../../wolfssl"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.endianess.1531279286" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess"/>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.1800059466" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" value="STM32F411RE" valueType="enumerated"/>
@@ -74,7 +74,7 @@
 									<listOptionValue builtIn="false" srcPrefixMapping="" srcRootPath="" value="wolfssl-lib"/>
 								</option>
 								<option id="com.atollic.truestudio.ld.libraries.searchpath.1782263455" name="Library search path" superClass="com.atollic.truestudio.ld.libraries.searchpath" valueType="libPaths">
-									<listOptionValue builtIn="false" value="&quot;E:\Support\TPM2.0\wolfssl\IDE\TrueSTUDIO\forSTM32\Projects\wolfSSL-lib\Debug&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../../../../../wolfssl\IDE\TrueSTUDIO\forSTM32\Projects\wolfSSL-lib\Debug&quot;"/>
 								</option>
 								<inputType id="com.atollic.truestudio.ld.input.520849357" name="Input" superClass="com.atollic.truestudio.ld.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
